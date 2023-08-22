@@ -1,0 +1,13 @@
+html{
+    background-color: black;
+}
+#picture{
+    border: 100px;
+    border-color: whitesmoke;
+    text-align: center;
+    margin: 10px;
+}
+h2{
+    color:aliceblue;
+    text-align: center;
+}
